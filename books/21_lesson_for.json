@@ -7,6 +7,16 @@
   ],
   "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
   "cover": "https://m.media-amazon.com/images/I/71VSswnjh9L._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha2/Chapter_01_Chapter%201.m4a"
+    },
+    {
+      "name": "Chapter 2",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha2/Chapter_02_Chapter%202.m4a"
+    }
+  ],
   "chapters_en": [
     {
       "name": "Chapter 1",
