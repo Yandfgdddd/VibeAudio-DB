@@ -1,0 +1,80 @@
+{
+    "bookId": "book_48",
+    "title": "Republic",
+    "author": "Plato",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61JTDBehHFL._SL1000_.jpg",
+    "chapters_en": [
+        {
+            "name": "Opening Credits",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_01_Opening%20Credits.m4a"
+        },
+        {
+            "name": "Book I",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_02_Book%20I.m4a"
+        },
+        {
+            "name": "Book II",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_03_Book%20II.m4a"
+        },
+        {
+            "name": "Book III",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_04_Book%20III.m4a"
+        },
+        {
+            "name": "Book IV",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_05_Book%20IV.m4a"
+        },
+        {
+            "name": "Book V",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_06_Book%20V.m4a"
+        },
+        {
+            "name": "Book VI",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_07_Book%20VI.m4a"
+        },
+        {
+            "name": "Book VII",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_08_Book%20VII.m4a"
+        },
+        {
+            "name": "Book VIII",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_09_Book%20VIII.m4a"
+        },
+        {
+            "name": "Book IX",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_10_Book%20IX.m4a"
+        },
+        {
+            "name": "Book X",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_11_Book%20X.m4a"
+        },
+        {
+            "name": "Introduction",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_12_Introduction.m4a"
+        },
+        {
+            "name": "1. Republic, or Constitution (Politeia)",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_13_1.%20Republic,%20or%20Constitution%20%28Politeia%29.m4a"
+        },
+        {
+            "name": "2. Plato and Socrates",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_14_2.%20Plato%20and%20Socrates.m4a"
+        },
+        {
+            "name": "3. On ‘Forms’",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_15_3.%20On%20%E2%80%98Forms%E2%80%99.m4a"
+        },
+        {
+            "name": "4. On Reading the Republic – and Reading Plato",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_16_4.%20On%20Reading%20the%20Republic%20%E2%80%93%20and%20Reading%20Plato.m4a"
+        },
+        {
+            "name": "End Credits",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha17/Chapter_17_End%20Credits.m4a"
+        }
+    ]
+}

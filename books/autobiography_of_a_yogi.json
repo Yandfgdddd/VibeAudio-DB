@@ -1,0 +1,72 @@
+{
+    "bookId": "book_50",
+    "title": "The Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/513Wb7JhksL.jpg",
+    "chapters_en": [
+        {
+            "name": "Disc 1: Disc One",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/1-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2001.m4a"
+        },
+        {
+            "name": "Disc 2: Disc Two",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/2-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2002.m4a"
+        },
+        {
+            "name": "Disc 3: Disc Three",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/3-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2003.m4a"
+        },
+        {
+            "name": "Disc 4: Disc Four",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/4-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2004.m4a"
+        },
+        {
+            "name": "Disc 5: Disc Five",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/5-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2005.m4a"
+        },
+        {
+            "name": "Disc 6: Disc Six",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/6-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2006.m4a"
+        },
+        {
+            "name": "Disc 7: Disc Seven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/7-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2007.m4a"
+        },
+        {
+            "name": "Disc 8: Disc Eight",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/8-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2008.m4a"
+        },
+        {
+            "name": "Disc 9: Disc Nine",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/9-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2009.m4a"
+        },
+        {
+            "name": "Disc 10: Disc Ten",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/10-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2010.m4a"
+        },
+        {
+            "name": "Disc 11: Disc Eleven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/11-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2011.m4a"
+        },
+        {
+            "name": "Disc 12: Disc Twelve",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/12-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2012.m4a"
+        },
+        {
+            "name": "Disc 13: Disc Thirteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/13-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2013.m4a"
+        },
+        {
+            "name": "Disc 14: Disc Fourteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/14-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2014.m4a"
+        },
+        {
+            "name": "Disc 15: Disc Fifteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha6/15-01%20Autobiography%20of%20a%20Yogi%20-%20Disc%2015.m4a"
+        }
+    ]
+}

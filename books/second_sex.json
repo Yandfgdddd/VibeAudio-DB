@@ -3,6 +3,11 @@
     "title": "The Second Sex",
     "author": "Simone de Beauvoir",
     "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71yYhODVxBL._SL1500_.jpg",
+    "chapters_en": [
         {
             "name": "The Second Sex",
             "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha16/The%20Second%20Sex%20-%20001%20-%20The%20Second%20Sex.mp3"

@@ -1,0 +1,148 @@
+{
+    "bookId": "book_52",
+    "title": "Sophie's world",
+    "author": "ostein Gaarder",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/A14CZcMfAkL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: The Garden of Eden",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%201%20complete%20-%20The%20Garden%20of%20Eden.mp3"
+        },
+        {
+            "name": "Chapter 2: The Top Hat",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%202%20complete%20-%20The%20Top%20Hat.mp3"
+        },
+        {
+            "name": "Chapter 3: The Myths",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%203%20complete%20-%20The%20Myths.mp3"
+        },
+        {
+            "name": "Chapter 4: The Natural Philosophers",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20world%20(Audiobook)%20-%20Chapter%204%20complete%20-%20The%20Natural%20Philosophers.mp3"
+        },
+        {
+            "name": "Chapter 5: Democritus",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20world%20(Audiobook)%20-%20Chapter%205%20complete%20-%20Democritus.mp3"
+        },
+        {
+            "name": "Chapter 6: Fate",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%206%20complete%20-%20Fate.mp3"
+        },
+        {
+            "name": "Chapter 7: Socrates",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%207%20complete%20-%20Socrates.mp3"
+        },
+        {
+            "name": "Chapter 8: Athens",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20world%20(Audiobook)%20-%20chapter%208%20complete%20-%20Athens.mp3"
+        },
+        {
+            "name": "Chapter 9: Plato",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%209%20complete%20-%20Plato.mp3"
+        },
+        {
+            "name": "Chapter 10: The Major's Cabin",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%2010%20complete%20-%20The%20Major's%20Cabin.mp3"
+        },
+        {
+            "name": "Chapter 11: Aristotle",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2011%20complete%20-%20Aristotle.mp3"
+        },
+        {
+            "name": "Chapter 12: Hellenism",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2012%20complete%20-%20Hellenism.mp3"
+        },
+        {
+            "name": "Chapter 13: The Postcards",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%2013%20complete%20-%20The%20Postcards.mp3"
+        },
+        {
+            "name": "Chapter 14: Two Cultures",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2014%20complete%20-%20Two%20Cultures.mp3"
+        },
+        {
+            "name": "Chapter 15: The Middle Ages",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2015%20complete%20-%20The%20Middle%20Ages.mp3"
+        },
+        {
+            "name": "Chapter 16: The Renaissance",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2016%20complete%20-%20The%20Renaissance.mp3"
+        },
+        {
+            "name": "Chapter 17: The Baroque",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2017%20complete%20-%20The%20Baroque.mp3"
+        },
+        {
+            "name": "Chapter 18: Descartes",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2018%20complete%20-%20Descartes.mp3"
+        },
+        {
+            "name": "Chapter 19: Spinoza",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%2019%20complete%20-%20Spinoza.mp3"
+        },
+        {
+            "name": "Chapter 20: Locke",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%2020%20complete%20-%20Locke.mp3"
+        },
+        {
+            "name": "Chapter 21: Hume",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20world%20(Audiobook)%20-%20Chapter%2021%20complete%20-%20Hume.mp3"
+        },
+        {
+            "name": "Chapter 22: Berkeley",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophie's%20World%20(Audiobook)%20-%20Chapter%2022%20complete%20-%20Berkeley.mp3"
+        },
+        {
+            "name": "Chapter 23: Bjerkely",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20world%20(Audiobook)%20-%20Chapter%2023%20complete%20-%20Bjerkely.mp3"
+        },
+        {
+            "name": "Chapter 24: The Enlightenment",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2024%20complete%20-%20The%20Enlightenment.mp3"
+        },
+        {
+            "name": "Chapter 25: Kant",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2025%20complete%20-%20Kant.mp3"
+        },
+        {
+            "name": "Chapter 26: Romanticism",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2026%20complete%20-%20Romanticism.mp3"
+        },
+        {
+            "name": "Chapter 27: Hegel",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2027%20complete%20-%20Hegel.mp3"
+        },
+        {
+            "name": "Chapter 28: Kierkegaard",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2028%20complete%20-%20Kierkegaard.mp3"
+        },
+        {
+            "name": "Chapter 29: Marx",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2029%20complete%20-%20Marx.mp3"
+        },
+        {
+            "name": "Chapter 30: Darwin",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2030%20complete%20-%20Darwin.mp3"
+        },
+        {
+            "name": "Chapter 31: Freud",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2031%20complete%20-%20Freud.mp3"
+        },
+        {
+            "name": "Chapter 32: Our Own Time",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2032%20complete%20-%20Our%20Own%20Time.mp3"
+        },
+        {
+            "name": "Chapter 33: The Garden Party",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2033%20complete%20-%20The%20Garden%20Party.mp3"
+        },
+        {
+            "name": "Chapter 34: Counterpoint",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha10/Sophies%20World%20(Audiobook)%20-%20Chapter%2034%20-%20Counterpoint.mp3"
+        }
+    ]
+}
