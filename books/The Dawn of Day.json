@@ -1,0 +1,56 @@
+{
+    "bookId": "book_59",
+    "title": "The Dawn of Day",
+    "author": "Friedrich Nietzsche",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61XOpxGGpWL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_01_Chapter%201.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_02_Chapter%202.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_03_Chapter%203.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_04_Chapter%204.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_05_Chapter%205.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_06_Chapter%206.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_07_Chapter%207.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_08_Chapter%208.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_09_Chapter%209.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_10_Chapter%2010.m4a"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha24/Chapter_11_Chapter%2011.m4a"
+        }
+    ]
+}

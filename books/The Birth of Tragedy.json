@@ -1,0 +1,140 @@
+{
+    "bookId": "book_57",
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61zrzqHfhvL._SL1199_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_01_Chapter%201.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_02_Chapter%202.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_03_Chapter%203.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_04_Chapter%204.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_05_Chapter%205.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_06_Chapter%206.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_07_Chapter%207.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_08_Chapter%208.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_09_Chapter%209.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_10_Chapter%2010.m4a"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_11_Chapter%2011.m4a"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_12_Chapter%2012.m4a"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_13_Chapter%2013.m4a"
+        },
+        {
+            "name": "Chapter 14: Chapter Fourteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_14_Chapter%2014.m4a"
+        },
+        {
+            "name": "Chapter 15: Chapter Fifteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_15_Chapter%2015.m4a"
+        },
+        {
+            "name": "Chapter 16: Chapter Sixteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_16_Chapter%2016.m4a"
+        },
+        {
+            "name": "Chapter 17: Chapter Seventeen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_17_Chapter%2017.m4a"
+        },
+        {
+            "name": "Chapter 18: Chapter Eighteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_18_Chapter%2018.m4a"
+        },
+        {
+            "name": "Chapter 19: Chapter Nineteen",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_19_Chapter%2019.m4a"
+        },
+        {
+            "name": "Chapter 20: Chapter Twenty",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_20_Chapter%2020.m4a"
+        },
+        {
+            "name": "Chapter 21: Chapter Twenty-One",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_21_Chapter%2021.m4a"
+        },
+        {
+            "name": "Chapter 22: Chapter Twenty-Two",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_22_Chapter%2022.m4a"
+        },
+        {
+            "name": "Chapter 23: Chapter Twenty-Three",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_23_Chapter%2023.m4a"
+        },
+        {
+            "name": "Chapter 24: Chapter Twenty-Four",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_24_Chapter%2024.m4a"
+        },
+        {
+            "name": "Chapter 25: Chapter Twenty-Five",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_25_Chapter%2025.m4a"
+        },
+        {
+            "name": "Chapter 26: Chapter Twenty-Six",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_26_Chapter%2026.m4a"
+        },
+        {
+            "name": "Chapter 27: Chapter Twenty-Seven",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_27_Chapter%2027.m4a"
+        },
+        {
+            "name": "Chapter 28: Chapter Twenty-Eight",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_28_Chapter%2028.m4a"
+        },
+        {
+            "name": "Chapter 29: Chapter Twenty-Nine",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_29_Chapter%2029.m4a"
+        },
+        {
+            "name": "Chapter 30: Chapter Thirty",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_30_Chapter%2030.m4a"
+        },
+        {
+            "name": "Chapter 31: Chapter Thirty-One",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_31_Chapter%2031.m4a"
+        },
+        {
+            "name": "Chapter 32: Chapter Thirty-Two",
+            "url": "https://raw.githack.com/cheemtad/nf_dumb2/main/cha22/Chapter_32_Chapter%2032.m4a"
+        }
+    ]
+}
