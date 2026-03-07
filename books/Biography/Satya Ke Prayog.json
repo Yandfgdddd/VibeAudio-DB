@@ -1,0 +1,72 @@
+{
+    "bookId": "book_80",
+    "title": "Satya Ke Prayog",
+    "author": "Mahatma Gandhi",
+    "moods": [
+        "Biography"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71yo2hUDpvL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Chapter 1",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter 2",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter 3",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter 4",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter 5",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter 6",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part06.mp3"
+        },
+        {
+            "name": "Chapter 7: Chapter 7",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part07.mp3"
+        },
+        {
+            "name": "Chapter 8: Chapter 8",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part08.mp3"
+        },
+        {
+            "name": "Chapter 9: Chapter 9",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part09.mp3"
+        },
+        {
+            "name": "Chapter 10: Chapter 10",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part10.mp3"
+        },
+        {
+            "name": "Chapter 11: Chapter 11",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part11.mp3"
+        },
+        {
+            "name": "Chapter 12: Chapter 12",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part12.mp3"
+        },
+        {
+            "name": "Chapter 13: Chapter 13",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part13.mp3"
+        },
+        {
+            "name": "Chapter 14: Chapter 14",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part14.mp3"
+        },
+        {
+            "name": "Chapter 15: Chapter 15",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha3/An%20Autobiography-Part15.mp3"
+        }
+    ]
+}

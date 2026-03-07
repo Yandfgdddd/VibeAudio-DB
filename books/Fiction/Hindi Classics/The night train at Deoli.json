@@ -1,0 +1,81 @@
+{
+    "bookId": "book_81",
+    "title": "The night train at Deoli",
+    "author": "Ruskin Bond",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/718haodm5xL._SL1360_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: नाईट ट्रेन एट देओली",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/02%20-%20%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%20%E0%A4%8F%E0%A4%9F%20%E0%A4%A6%E0%A5%87%E0%A4%93%E0%A4%B2%E0%A5%80.m4a"
+        },
+        {
+            "name": "Chapter 2: पतंगवाला",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/03%20-%20%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE.m4a"
+        },
+        {
+            "name": "Chapter 3: मंदार का पेड़",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/04%20-%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A5%87%E0%A5%9C.m4a"
+        },
+        {
+            "name": "Chapter 4: पड़ोसी की बीवी",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/05%20-%20%E0%A4%AA%E0%A5%9C%E0%A5%8B%E0%A4%B8%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A5%80%E0%A4%B5%E0%A5%80.m4a"
+        },
+        {
+            "name": "Chapter 5: चाची का अंतिम संस्कार",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/06%20-%20%E0%A4%9A%E0%A4%BE%E0%A4%9A%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AE%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0.m4a"
+        },
+        {
+            "name": "Chapter 6: चोर चोर",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/07%20-%20%E0%A4%9A%E0%A5%8B%E0%A4%B0%20%E0%A4%9A%E0%A5%8B%E0%A4%B0.m4a"
+        },
+        {
+            "name": "Chapter 7: पहले जैसे मान",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/08%20-%20%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%87%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%AE%E0%A4%BE%E0%A4%A8.m4a"
+        },
+        {
+            "name": "Chapter 8: फूलों की आस",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/09%20-%20%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%86%E0%A4%B8.m4a"
+        },
+        {
+            "name": "Chapter 9: आँखों ही आँखों में",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/10%20-%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%8B%E0%A4%82%20%E0%A4%B9%E0%A5%80%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82.m4a"
+        },
+        {
+            "name": "Chapter 10: बैंक का निकला दीवाला",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/11%20-%20%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95%20%E0%A4%95%E0%A4%BE%20%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A4%BE%20%E0%A4%A6%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE.m4a"
+        },
+        {
+            "name": "Chapter 11: सीता और नदी",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/12%20-%20%E0%A4%B8%E0%A5%80%E0%A4%A4%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%A8%E0%A4%A6%E0%A5%80.m4a"
+        },
+        {
+            "name": "Chapter 12: इंसपेक्टर लाल की जाँच पड़ताल",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/13%20-%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%95%E0%A5%80%20%E0%A4%9C%E0%A4%BE%E0%A4%81%E0%A4%9A%20%E0%A4%AA%E0%A5%9C%E0%A4%A4%E0%A4%BE%E0%A4%B2.m4a"
+        },
+        {
+            "name": "Chapter 13: एक परिचित की मौत",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/14%20-%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A5%80%20%E0%A4%AE%E0%A5%8C%E0%A4%A4.m4a"
+        },
+        {
+            "name": "Chapter 14: पिता के फलते फूलते पेड़",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/15%20-%20%E0%A4%AA%E0%A4%BF%E0%A4%A4%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%AB%E0%A4%B2%E0%A4%A4%E0%A5%87%20%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A4%A4%E0%A5%87%20%E0%A4%AA%E0%A5%87%E0%A5%9C.m4a"
+        },
+        {
+            "name": "Chapter 15: बचपन के वो दिन",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/16%20-%20%E0%A4%AC%E0%A4%9A%E0%A4%AA%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B5%E0%A5%8B%20%E0%A4%A6%E0%A4%BF%E0%A4%A8.m4a"
+        },
+        {
+            "name": "Chapter 16: मधु को गति न्यारी",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/17%20-%20%E0%A4%AE%E0%A4%A7%E0%A5%81%20%E0%A4%95%E0%A5%8B%20%E0%A4%97%E0%A4%A4%E0%A4%BF%20%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%80.m4a"
+        },
+        {
+            "name": "Chapter 17: एक दर्द भरा गीत",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha4/18%20-%20%E0%A4%8F%E0%A4%95%20%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%A6%20%E0%A4%AD%E0%A4%B0%E0%A4%BE%20%E0%A4%97%E0%A5%80%E0%A4%A4.m4a"
+        }
+    ]
+}

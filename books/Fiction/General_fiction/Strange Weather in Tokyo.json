@@ -1,0 +1,28 @@
+{
+    "bookId": "book_82",
+    "title": "Strange Weather in Tokyo",
+    "author": "Hiromi Kawakami",
+    "moods": [
+        "Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71XsEy1+53L._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Chapter 1",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha5/Strange%20Weather%20in%20Tokyo_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter 2",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha5/Strange%20Weather%20in%20Tokyo_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter 3",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha5/Strange%20Weather%20in%20Tokyo_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter 4",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha5/Strange%20Weather%20in%20Tokyo_Part_04.mp3"
+        }
+    ]
+}

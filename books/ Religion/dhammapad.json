@@ -1,0 +1,121 @@
+{
+    "bookId": "book_78",
+    "title": "The Dhammapada",
+    "author": "Acharya Buddharakkhita",
+    "moods": [
+        "Religion",
+        "Soul"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61o0g5xdxAL.jpg",
+    "chapters": [
+        {
+            "name": "Introduction",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/00.%20Introduction.mp3"
+        },
+        {
+            "name": "Chapter 1: Yamak Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/01.%20Yamak%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 2: Appamaad Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/02.%20Appamaad%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 3: Chitta Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/03.%20Chitta%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 4: Puppha Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/04.%20Puppha%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 5: Baal Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/05.%20Baal%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 6: Pandit Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/06.%20Pandit%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 7: Arhant Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/07.%20Arhant%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 8: Sahassa Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/08.%20Sahassa%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 9: Paap Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/09.%20Paap%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 10: Dand Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/10.%20Dand%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 11: Jara Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/11.%20Jara%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 12: Atta Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/12.%20Atta%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 13: Loka Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/13.%20Loka%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 14: Buddha Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/14.%20Buddha%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 15: Sukha Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/15.%20Sukha%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 16: Piya Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/16.%20Piya%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 17: Kodha Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/17.%20Kodha%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 18: Mal Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/18.%20Mal%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 19: Dhammattha Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/19.%20Dhammattha%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 20: Magga Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/20.%20Magga%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 21: Pakinnak Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/21.%20Pakinnak%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 22: Niraya Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/22.%20Niraya%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 23: Naag Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/23.%20Naag%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 24: Tanha Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/24.%20Tanha%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 25: Bikkhu Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/25.%20Bikkhu%20Vaggo.mp3"
+        },
+        {
+            "name": "Chapter 26: Brahmin Vaggo",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha1/26.%20Brahmin%20Vaggo.mp3"
+        }
+    ]
+}

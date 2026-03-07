@@ -1,0 +1,65 @@
+{
+    "bookId": "book_84",
+    "title": "Dilli Darbaar",
+    "author": "Satya Vyas",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71IATk-vpjL._SL1146_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: अध्याय 1",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_01_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%201.m4a"
+        },
+        {
+            "name": "Chapter 2: अध्याय 2",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_02_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%202.m4a"
+        },
+        {
+            "name": "Chapter 3: अध्याय 3",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_03_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%203.m4a"
+        },
+        {
+            "name": "Chapter 4: अध्याय 4",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_04_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%204.m4a"
+        },
+        {
+            "name": "Chapter 5: अध्याय 5",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_05_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%205.m4a"
+        },
+        {
+            "name": "Chapter 6: अध्याय 6",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_06_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%206.m4a"
+        },
+        {
+            "name": "Chapter 7: अध्याय 7",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_07_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%207.m4a"
+        },
+        {
+            "name": "Chapter 8: अध्याय 8",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_08_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%208.m4a"
+        },
+        {
+            "name": "Chapter 9: अध्याय 9",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_09_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%209.m4a"
+        },
+        {
+            "name": "Chapter 10: अध्याय 10",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_10_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%2010.m4a"
+        },
+        {
+            "name": "Chapter 11: अध्याय 11",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_11_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%2011.m4a"
+        },
+        {
+            "name": "Chapter 12: अध्याय 12",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_12_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%2012.m4a"
+        },
+        {
+            "name": "Chapter 13: अध्याय 13",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha7/Chapter_13_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%2013.m4a"
+        }
+    ]
+}
