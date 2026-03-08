@@ -1,0 +1,65 @@
+{
+    "bookId": "book_97",
+    "title": "Who Were The Shudras",
+    "author": "BR Ambedkar",
+    "moods": [
+        "Religion",
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/718haodm5xL._SL1360_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_00.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_01.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_02.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_03.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_04.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_05.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_06.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_07.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_08.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_09.m4a"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_10.m4a"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_11.m4a"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha24/chapter_12.m4a"
+        }
+    ]
+}

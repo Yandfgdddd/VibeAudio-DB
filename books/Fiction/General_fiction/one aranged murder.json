@@ -1,0 +1,36 @@
+{
+    "bookId": "book_96",
+    "title": "One Arranged Murder",
+    "author": "Chetan Bhagat",
+    "moods": [
+        "Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/41ADSp++tZL.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha23/One%20Arranged%20Murder%20book%20by%20Chetan%20bhagat%20by%20Hariom%20Gupta_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha23/One%20Arranged%20Murder%20book%20by%20Chetan%20bhagat%20by%20Hariom%20Gupta_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha23/One%20Arranged%20Murder%20book%20by%20Chetan%20bhagat%20by%20Hariom%20Gupta_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha23/One%20Arranged%20Murder%20book%20by%20Chetan%20bhagat%20by%20Hariom%20Gupta_Part_04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha23/One%20Arranged%20Murder%20book%20by%20Chetan%20bhagat%20by%20Hariom%20Gupta_Part_05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha23/One%20Arranged%20Murder%20book%20by%20Chetan%20bhagat%20by%20Hariom%20Gupta_Part_06.mp3"
+        }
+    ]
+}
