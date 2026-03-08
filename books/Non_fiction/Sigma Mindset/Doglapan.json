@@ -1,0 +1,29 @@
+{
+    "bookId": "book_92",
+    "title": "Doglapan",
+    "author": "RAshneer Grover",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81InFh0R4UL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha18/Doglapan%20by%20Ashneer%20Grover%20-%20The%20HARD%20TRUTH%20about%20LIFE%20and%20START-UPS%20_%20Full%20_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha18/Doglapan%20by%20Ashneer%20Grover%20-%20The%20HARD%20TRUTH%20about%20LIFE%20and%20START-UPS%20_%20Full%20_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha18/Doglapan%20by%20Ashneer%20Grover%20-%20The%20HARD%20TRUTH%20about%20LIFE%20and%20START-UPS%20_%20Full%20_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha18/Doglapan%20by%20Ashneer%20Grover%20-%20The%20HARD%20TRUTH%20about%20LIFE%20and%20START-UPS%20_%20Full%20_Part_04.mp3"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "bookId": "book_90",
+    "title": "Safal Soch Ka Safal Jadu",
+    "author": "DAVID J. SCHWARTZ",
+    "moods": [
+        "Non-Fiction",
+        "Strategy"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81WBpE57qtL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_06.mp3"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha16/AUDIO%20BOOKS%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%B8%E0%A5%8B%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%82_Part_07.mp3"
+        }
+    ]
+}
