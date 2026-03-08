@@ -3,9 +3,9 @@
     "title": "The Subtle Art of Not Giving a Fuck",
     "author": "Mark Manson",
     "moods": [
-    "Non-Fiction",
-    "Self-Help"
-  ],
+        "Non-Fiction",
+        "Self-Help"
+    ],
     "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
     "cover": "https://m.media-amazon.com/images/I/71t4GuxLCuL._SL1500_.jpg",
     "chapters_en": [
@@ -44,6 +44,16 @@
         {
             "name": "Chapter 9: ...And Then You Die",
             "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/09%20-%20...and%20then%20you%20die.mp3"
+        }
+    ],
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha25/The_Subtle_Art_of_Not_giving_a_F-ck_Audiobook_in_Hindi_by_Hariom_Gupta_y1a0pc_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha25/The_Subtle_Art_of_Not_giving_a_F-ck_Audiobook_in_Hindi_by_Hariom_Gupta_y1a0pc_Part_01.mp3"
         }
     ]
 }
