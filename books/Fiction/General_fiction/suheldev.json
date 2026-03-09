@@ -1,0 +1,165 @@
+{
+    "bookId": "book_105",
+    "title": "Legend of Suheldev",
+    "author": " Amish Tripathi",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/91El3d6U5jL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_01_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%BF%E0%A4%95%20%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%B5%E0%A4%B0%E0%A5%80.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_02_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_03_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A4%BE.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_04_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_05_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_06_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A9.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_07_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%AA.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_08_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%AB.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_09_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%AC.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_10_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%AD.m4a"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_11_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%AE.m4a"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_12_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%AF.m4a"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_13_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%A6.m4a"
+        },
+        {
+            "name": "Chapter 14: Chapter Fourteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_14_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%A7.m4a"
+        },
+        {
+            "name": "Chapter 15: Chapter Fifteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_15_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%A8.m4a"
+        },
+        {
+            "name": "Chapter 16: Chapter Sixteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_16_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%A9.m4a"
+        },
+        {
+            "name": "Chapter 17: Chapter Seventeen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_17_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%AA.m4a"
+        },
+        {
+            "name": "Chapter 18: Chapter Eighteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_18_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%AB.m4a"
+        },
+        {
+            "name": "Chapter 19: Chapter Nineteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_19_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%AC.m4a"
+        },
+        {
+            "name": "Chapter 20: Chapter Twenty",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_20_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%AD.m4a"
+        },
+        {
+            "name": "Chapter 21: Chapter 21",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_21_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%AE.m4a"
+        },
+        {
+            "name": "Chapter 22: Chapter 22",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_22_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A7%E0%A5%AF.m4a"
+        },
+        {
+            "name": "Chapter 23: Chapter 23",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_23_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%A6.m4a"
+        },
+        {
+            "name": "Chapter 24: Chapter 24",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_24_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%A7.m4a"
+        },
+        {
+            "name": "Chapter 25: Chapter 25",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_25_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%A8.m4a"
+        },
+        {
+            "name": "Chapter 26: Chapter 26",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_26_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%A9.m4a"
+        },
+        {
+            "name": "Chapter 27: Chapter 27",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_27_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%AA.m4a"
+        },
+        {
+            "name": "Chapter 28: Chapter 28",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_28_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%AB.m4a"
+        },
+        {
+            "name": "Chapter 29: Chapter 29",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_29_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%AC.m4a"
+        },
+        {
+            "name": "Chapter 30: Chapter 30",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_30_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%AD.m4a"
+        },
+        {
+            "name": "Chapter 31: Chapter 31",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_31_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%AE.m4a"
+        },
+        {
+            "name": "Chapter 32: Chapter 32",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_32_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A8%E0%A5%AF.m4a"
+        },
+        {
+            "name": "Chapter 33: Chapter 33",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_33_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A9%E0%A5%A6.m4a"
+        },
+        {
+            "name": "Chapter 34: Chapter 34",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_34_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A9%E0%A5%A7.m4a"
+        },
+        {
+            "name": "Chapter 35: Chapter 35",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_35_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A9%E0%A5%A8.m4a"
+        },
+        {
+            "name": "Chapter 36: Chapter 36",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_36_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A9%E0%A5%A9.m4a"
+        },
+        {
+            "name": "Chapter 37: Chapter 37",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_37_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%20%E0%A5%A9%E0%A5%AA.m4a"
+        },
+        {
+            "name": "Chapter 38: Chapter 38",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha34/Chapter_38_%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AE%20%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%B5%E0%A4%B0%E0%A5%80.m4a"
+        }
+    ]
+}

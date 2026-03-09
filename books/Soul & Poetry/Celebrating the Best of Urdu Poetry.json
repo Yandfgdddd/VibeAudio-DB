@@ -1,0 +1,521 @@
+{
+    "bookId": "book_107",
+    "title": "Celebrating the Best of Urdu Poetry",
+    "author": "Khushwant Singh",
+    "moods": [
+        "Fiction",
+        "Soul&Poetry"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/710pmWP+9IL._SY466_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Is%20Tarah%20To%20Hota%20Hai%20Is%20Tarah%20ke%20Kamon%20Mein%20-%20Ghazal%20-%20Shoaib%20Bin%20Aziz%20Poetry%20-%20Urdu%20Shayari%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/BADSHAGUNI%20-%20Ajab%20Ghari%20Thi%20Kitab%20Keechar%20Mein%20Gir%20Pari%20Thi%20-%20Urdu%20Poetry%20by%20IFTIKHAR%20ARIF.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Halat%20Ke%20Qadmon%20Pe%20Qalandar%20Nahin%20Girta%20%28INQILABI%20SHAYARI%29%20-%20QATEEL%20SHIFAI.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Faiz%20Ahmed%20Faiz%20Poetry%20-%20Woh%20Ja%20Raha%20Hai%20Koi%20Shab-e-Gham%20Guzar%20Ke%20-%20URDU%20SHAYARI%20READING.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Iftikhar%20Arif%20-%20Ghazal%20-%20Ummat-e-Sayyid-e-Laulak%20Se%20Khouf%20Aata%20Hai%20-%20LEHJA%20%5BUrdu%20Poetry%20Recitation%5D.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/KUTTAY%20%7BInqilabi%20Nazm%7D%20-%20Famous%20Poetry%20by%20FAIZ.mp3"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Jaan%20Nisar%20Akhtar%20Poetry%20-%20Ik%20Zakhm-e-Tamanna%20Aur%20Sahi%20-%20Jan%20Nisar%20Akhtar%20Shayari.mp3"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ghazal%20Shayari%20-%20Seikh%20Kehta%20Raha%20Hisab%20Hisab%20-%20Kashfi%20Multani%20-%20Urdu%20Poetry%20Voice%20Over.mp3"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Sahir%20Ludhianvi%20Poetry%20-%20Taj%20Mahal%20-%20Famous%20Urdu%20Poem%20%28Nazm%29%20by%20Sahir%20-%20LEHJA%20%28Urdu%20Poetry%20Channel%29.mp3"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Noon%20Meem%20Rashid%20-%20Hassan%20Koozagar%20-%20Nazm%20-%20Spoken%20Word.mp3"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Irfan%20Siddiqui%20KHUSHBU%20KI%20TARAH%20SATH%20LAGA%20LE%20GAI%20HUM%20KO%20-%20LEHJA.mp3"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Pathar%20-%20Ahmad%20Nadeem%20Qasmi%20Poetry%20-%20Ret%20Se%20But%20Na%20Bana%20-%20Urdu%20Poetry%20Voice%20Over%20-%20Urdu%20Spoken%20Word.mp3"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Is%20Basti%20Ke%20Ik%20Kooche%20Mein%20-%20IBN-E-INSHA.mp3"
+        },
+        {
+            "name": "Chapter 14: Chapter Fourteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Urdu%20Shayari%20-%20Iqbal%20Sajid%20Poetry%20-%20Kal%20Shab%20Dil%20e%20Awara%20Ko%20-%20Modern%20Urdu%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 15: Chapter Fifteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Shad%20Azimabadi%20-%20Ghazal%20Shayari%20-%20Khilaune%20De%20Ke%20Behlaya%20Gaya%20Hun%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 16: Chapter Sixteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Raqs%20%28Nazm%29%20-%20Urdu%20Poem%20Reading%20-%20Jadeed%20Urdu%20Shayari%20-%20Noon%20Meem%20Rashid%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 17: Chapter Seventeen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ahmed%20Faraz%20Poetry%20-%20Meri%20Ghazlain%20Yeh%20Meri%20Nazmain%20-%20Ahmad%20Faraz%20-%20Nazm.mp3"
+        },
+        {
+            "name": "Chapter 18: Chapter Eighteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Amir%20Usmani%20Shayari%20-%20Ishq%20Ke%20Marahil%20Mein%20-%20Ghazal%20Reading%20-%20Amir%20Usmani%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 19: Chapter Nineteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mustafa%20Zaidi%20Ghazal%20-%20Inhi%20Pathron%20Pe%20Chal%20Ke%20Agar%20Aa%20Sako%20To%20Aao%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 20: Chapter Twenty",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Eid%20Poetry%20In%20Urdu%20-%20Mohinder%20Singh%20Bedi%20Poetry%20-%20Hilal%20E%20Eid%20%5BUrdu%20Shayari%5D.mp3"
+        },
+        {
+            "name": "Chapter 21: Chapter 21",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Zaheer%20Kashmiri%20-%20Khushbu%20Udi%20To%20Phool%20Faqat%20Rang%20Reh%20Gaya%20-%20BEST%20URDU%20POETRY%20RECITATION.mp3"
+        },
+        {
+            "name": "Chapter 22: Chapter 22",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Javed%20Ahmad%20Ghamidi%20Poetry%20-%20Utth%20Ke%20Ye%20Sisila-e-Sham-o-Sahar%20%5BIslamic%20Poetry%5D.mp3"
+        },
+        {
+            "name": "Chapter 23: Chapter 23",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mustafa%20Zaidi%20Poetry-%20Raat%20Sunsan%20Hai%20-%20Urdu%20Poem%20%28Nazm%29%20-%20Mustafa%20Zaidi%20Shayari.mp3"
+        },
+        {
+            "name": "Chapter 24: Chapter 24",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Hafeez%20Banarasi%20-%20Ghazal%20Shayari%20-%20Kuch%20Soch%20Ke%20Parwana%20-%20Best%20Urdu%20Poetry%20Collection.mp3"
+        },
+        {
+            "name": "Chapter 25: Chapter 25",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Tum%20Se%20Pehle%20Wo%20Jo%20Ik%20Shakhs%20Yahan%20Takht%20Nasheen%20Tha%20-%20HABIB%20JALIB.mp3"
+        },
+        {
+            "name": "Chapter 26: Chapter 26",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/KABHI%20KABHI%20Mere%20Dil%20Mein%20Khayal%20Aata%20Hai%20%7BRECITATION%7D%20-%20Famous%20Urdu%20Poem%20by%20SAHIR%20LUDHIANVI.mp3"
+        },
+        {
+            "name": "Chapter 27: Chapter 27",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Jadeed%20Shayari%20-%20Jism%20Ki%20Khushbu%20Alag%20Hai%20-%20GHULAM%20HUSSAIN%20SAJID.mp3"
+        },
+        {
+            "name": "Chapter 28: Chapter 28",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Hum%20To%20Majboor-e-Wafa%20Hain%20-%20FAIZ%20AHMED%20FAIZ.mp3"
+        },
+        {
+            "name": "Chapter 29: Chapter 29",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Gaye%20Dinon%20Ka%20Suragh%20Le%20Kar%20-%20Urdu%20Ghazal%20Poetry%20Reading%20-%20Nasir%20Kazmi%20Shayari.mp3"
+        },
+        {
+            "name": "Chapter 30: Chapter 30",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Jigar%20Moradabadi%20-%20BEST%20GHAZAL%20POETRY%20-%20Wo%20Mujh%20Pe%20Chha%20Gaye%20Main%20Zamane%20Pe%20Chha%20Gaya%20-%20Urdu%20Shayari.mp3"
+        },
+        {
+            "name": "Chapter 31: Chapter 31",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mujh%20Mein%20Tu%20Karta%20Hua%20Main%20-%20HASNAIN%20SHAHZAD.mp3"
+        },
+        {
+            "name": "Chapter 32: Chapter 32",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Pursish%20E%20Gham%20Ka%20Shukriya%20-%20EHSAN%20DANISH.mp3"
+        },
+        {
+            "name": "Chapter 33: Chapter 33",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Kashfi%20Multani%20Ghazal%20-%20Sheikh%20Kehta%20Raha%20Hisab%20Hisab%20-%20Urdu%20Shayari%20Reading%20-.mp3"
+        },
+        {
+            "name": "Chapter 34: Chapter 34",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Saghar%20Siddiqui%20Poetry%20-%20Jis%20Ehd%20Mein%20Lut%20Jaye%20Faqeeron%20Ki%20Kamayi%20-%20Ghazal%20Shayari%20-%20Urdu%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 35: Chapter 35",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Raat%20Sunsan%20Hai%20%7BSad%20Poetry%7D%20-%20MUSTAFA%20ZAIDI.mp3"
+        },
+        {
+            "name": "Chapter 36: Chapter 36",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mujh%20Se%20Pehli%20Si%20Muhabbat%20-%20Faiz%20Ahmed%20Faiz.mp3"
+        },
+        {
+            "name": "Chapter 37: Chapter 37",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Naresh%20Kumar%20Shad%20-JEENE%20KE%20ANDAZ%20NA%20AAYE%20%28Ghazal%29.mp3"
+        },
+        {
+            "name": "Chapter 38: Chapter 38",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Nasir%20Kazmi%20Best%20Ghazal%20-%20Gaye%20Dinon%20Ka%20Suragh%20Lekar%20%5BSad%20Urdu%20Poetry%5D.mp3"
+        },
+        {
+            "name": "Chapter 39: Chapter 39",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ghulam%20Muhammad%20Qasir%20Jis%20Ke%20Nain%20Nasheele%20The%20-%20Best%20Urdu%20Poetry%20%7BGHAZAL%20READING%7D.mp3"
+        },
+        {
+            "name": "Chapter 40: Chapter 40",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Urdu%20Poetry%20-%20Ahmad%20Nadeem%20Qasmi%20Ghazal%20-%20Tujhe%20Kho%20Kar%20Bhi%20Tujhe%20Paon.mp3"
+        },
+        {
+            "name": "Chapter 41: Chapter 41",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Faiz%20Ahmed%20Faiz%20Shayari%20-%20Ik%20Nazar%20Tum%20Mera%20Mehboob-e-Nazar%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 42: Chapter 42",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mohsin%20Naqvi%20Poetry%20-%20Bol%20Ay%20Sukoot-e-Dil%20-%20Urdu%20Ghazal%20-%20Mohsin%20Naqvi%20Shayari%20.mp3"
+        },
+        {
+            "name": "Chapter 43: Chapter 43",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Baat%20Niklegi%20To%20Phir%20Door%20Talak%20Jayegi%20-%20Urdu%20Shayari%20-%20Kafeel%20Aazar%20Amrohvi%20Poetry%20-Urdu%20Recitation.mp3"
+        },
+        {
+            "name": "Chapter 44: Chapter 44",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Shamim%20Karhani%20Shayari%20-%20Aisi%20Sharab%20E%20Jan%20Faza%20Kaise%20Haram%20Ho%20Gayi%20-%20BEST%20URDU%20GHAZAL.mp3"
+        },
+        {
+            "name": "Chapter 45: Chapter 45",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Sana%20Khawan%20E%20Taqdees%20E%20Mashriq%20Kahan%20Hain%20-%20Chakle%20-%20Sahir%20Ludhianvi%20Poetry%20-%20Urdu%20Shayari%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 46: Chapter 46",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Us%20Zulm%20Ko%20Dunya%20Kya%20Jane%20Jo%20Tun%20Ne%20Pas%20e%20Diwar%20Kiya%20-%20NAEEM%20SIDDIQUI.mp3"
+        },
+        {
+            "name": "Chapter 47: Chapter 47",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Urdu%20Ka%20Janaza%20Hai%20Zara%20Dhoom%20Se%20Nikle%20-%20Urdu%20Shayari%20-%20Raees%20Amrohvi%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 48: Chapter 48",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Khoon%20Phir%20Khoon%20Hai%20-%20Inqilabi%20Nazm%20-%20Urdu%20Shayari%20-%20Sahir%20Ludhianvi%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 49: Chapter 49",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Tanveer%20Sipra%20-%20JADEED%20SHAYARI%20-%20Moojid%20Ka%20Husn%20Apni%20Hi%20Ijad%20Kha%20Gayi%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 50: Chapter 50",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Kalam-e-Faiz%20Khuda%20Wo%20Waqt%20Na%20Laye%20-%20FAIZ%20AHMED%20FAIZ%20-%20Urdu%20Shayari.mp3"
+        },
+        {
+            "name": "Chapter 51: Chapter 51",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/ZOOMING%20%7BRomantic%20Poem%7D%20%20-%20Ashfaq%20Hussain.mp3"
+        },
+        {
+            "name": "Chapter 52: Chapter 52",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Meera%20Ji%20Poetry%20-%20Urdu%20Ghazal%20Shayari%20-%20Mira%20Ji%20-%20Sad%20Urdu%20Ghazal%20Poetry%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 53: Chapter 53",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Bedil%20Haidri%20-%20Meri%20Dastan-e-alam%20To%20Sun%20%28Best%20Urdu%20Poetry%20Collection%29%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 54: Chapter 54",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Shareek-e-Jurm%20Na%20Hote%20To%20Mukhbari%20Karte%20-%20AZHAR%20DURRANI.mp3"
+        },
+        {
+            "name": "Chapter 55: Chapter 55",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mere%20Hamdam%20Mere%20Dost%20%7BNazm%7D%20-%20Poem%20by%20Faiz%20Ahmed%20Faiz%20-%20Urdu%20Poetry%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 56: Chapter 56",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/NEW%20YEAR%20SPECIAL%20-%20Mirza%20Ghalib%20-%20Ik%20Brahman%20Ne%20Kaha%20Hai%20K%20Ye%20Saal%20Acha%20Hai%20-%20LEHJA%20%5BPoetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 57: Chapter 57",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Qateel%20Shifai%20Poetry%20-%20Hum%20Ne%20To%20Dil%20Jala%20Ke%20Sar-e-Aam%20Rakh%20Diya%20-%20FAMOUS%20GHAZAL%20SHAYARI.mp3"
+        },
+        {
+            "name": "Chapter 58: Chapter 58",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Tumhen%20Kyunkar%20Batayen%20-%20FIRAQ%20GORAKHPURI.mp3"
+        },
+        {
+            "name": "Chapter 59: Chapter 59",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Urdu%20Poetry%20-%20Ghazal%20Pandit%20Brij%20Narayan%20Chakbast%20Poetry%20-%20Shayari%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 60: Chapter 60",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Kuttay%20INQILABI%20NAZM%20%7BUpdated%7D%20-%20Famous%20Urdu%20Poetry%20by%20Faiz%20Ahmed%20Faiz%20-%20RECITATION.mp3"
+        },
+        {
+            "name": "Chapter 61: Chapter 61",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/USTAD%20QAMAR%20JALALVI%20-%20Raste%20Band%20Kiye%20Dete%20Ho%20Deewanon%20Ke%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 62: Chapter 62",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Aakhri%20Baar%20Milo%20-%20Mustafa%20Zaidi.mp3"
+        },
+        {
+            "name": "Chapter 63: Chapter 63",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ajab%20Ghari%20Thi%20Kitab%20Kichar%20Mein%20-%20Badshugooni%20-%20%20Urdu%20Nazm%20-%20Iftikhar%20Arif%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 64: Chapter 64",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Kaif%20Bhopali%20Ghazal%20-%20Haye%20Logon%20Ki%20Karam%20Farmaiyan%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 65: Chapter 65",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Khaak%20Urayi%20Khaak%20Sameti%20Khaak%20Apna%20Sarmaya%20Hai%20%20-%20Urdu%20Poetry%20by%20NAWAZ%20ZAFAR.mp3"
+        },
+        {
+            "name": "Chapter 66: Chapter 66",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Zindagi%20Ke%20Jitne%20Darwaze%20Hain%20-%20Urdu%20Spoken%20Word%20Poetry%20-%20Ahmad%20Nadeem%20Qasmi%20-%20Urdu%20Shayari%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 67: Chapter 67",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Larkanay%20Chalo%20Warna%20Thanay%20Chalo%20-%20Habib%20Jalib%20Best%20Poetry%20-%20Inqilabi%20Shayari.mp3"
+        },
+        {
+            "name": "Chapter 68: Chapter 68",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Jaan%20Nisar%20Akhtar%20Ik%20Zakhm-e-Tamanna%20Aur%20Sahi.mp3"
+        },
+        {
+            "name": "Chapter 69: Chapter 69",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Asrarul%20Haq%20Majaz%20Lakhnavi%20-%20GHAZAL%20-%20Kuch%20Tujhko%20Khabar%20Hai%20Hum%20Kya%20Kya%20-%20URDU%20POETRY.mp3"
+        },
+        {
+            "name": "Chapter 70: Chapter 70",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Faraz%20Poetry%20-%20Hum%20Sunayen%20To%20Kahani%20Aur%20Hai%20-%20Ahmed%20Faraz%20Ghazal%20Shayari%20-%20Urdu%20Poetry%20Voice%20Over.mp3"
+        },
+        {
+            "name": "Chapter 71: Chapter 71",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Qabil%20Ajmeri%20Poetry%20-%20Hadisa%20Ek%20Dam%20Nahin%20Hota%20-%20Famous%20Urdu%20Ghazal.mp3"
+        },
+        {
+            "name": "Chapter 72: Chapter 72",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Pir%20Naseer%20Ud%20Din%20Naseer%20Poetry%20-%20Kabhi%20Unka%20Naam%20Lena%20Kabhi%20Unki%20Baat%20Karna.mp3"
+        },
+        {
+            "name": "Chapter 73: Chapter 73",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Der%20Lagi%20Aane%20Mein%20Tumko%20Shukr%20Hai%20Phir%20Bhi%20Aaye%20To%20-%20Andleeb%20Shadani%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 74: Chapter 74",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Bunda%20%7BRomantic%20Shayari%7D%20-%20MAJEED%20AMJAD.mp3"
+        },
+        {
+            "name": "Chapter 75: Chapter 75",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Lamhon%20Ne%20Khata%20Ki%20Thi%20Sadiyon%20Ne%20Saza%20Payi%20-%20Muzaffar%20Razmi%20-%20FAMOUS%20URDU%20POETRY.mp3"
+        },
+        {
+            "name": "Chapter 76: Chapter 76",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ibn-e-Insha%20Poetry%20-%20Is%20Basti%20Ke%20Ik%20Kooche%20Mein.mp3"
+        },
+        {
+            "name": "Chapter 77: Chapter 77",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Josh%20Malihabadi%20Poetry%20-%20Fitna-e-Khanqah%20-%20Nazm%20-%20Josh%20Malihabadi%20Shayari%20in%20Urdu.mp3"
+        },
+        {
+            "name": "Chapter 78: Chapter 78",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/SOORAJ%20Rasta%20Bhool%20Gaya%20Tha%20-%20NAZAR%20HUSSAIN%20NAZ.mp3"
+        },
+        {
+            "name": "Chapter 79: Chapter 79",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mil%20Hi%20Jaye%20Ga%20Kabhi%20Dil%20Ko%20Yaqeen%20Rehta%20Hai%20-%20AHMAD%20MUSHTAQ.mp3"
+        },
+        {
+            "name": "Chapter 80: Chapter 80",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Wo%20Bhi%20Kambakht%20Tera%20Chahne%20Wala%20Nikla%20-%20NAZEER%20AKBARABADI.mp3"
+        },
+        {
+            "name": "Chapter 81: Chapter 81",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Faiz%20Ahmed%20Faiz%20-%20Raqeeb%20Se%20-%20Faiz%20Poetry%20Recitation%20-%20Urdu%20Shayari%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 82: Chapter 82",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Sahir%20Ludhianvi%20Poetry%20-%20Main%20Jise%20Pyar%20Ka%20Andaaz%20Samajh%20Baitha%20Hun%20-%20Poem%20Hiraas%20-%20Urdu%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 83: Chapter 83",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Taj%20Mahal%20%7BBest%20Of%20Sahir%20Ludhianvi%7D.mp3"
+        },
+        {
+            "name": "Chapter 84: Chapter 84",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/NAYI%20SHAYARI%20-%20Main%20To%20Mar%20Jaun%20Tera%20Rang%20Bhi%20Maila%20Kar%20Ke%20-%20Jadeed%20Ghazal%20-%20Zafar%20Iqbal.mp3"
+        },
+        {
+            "name": "Chapter 85: Chapter 85",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Firaq%20Gorakhpuri%20Poetry%20-%20Sar%20Mein%20Sauda%20Bhi%20Nahin%20Dil%20Mein%20Tamanna%20Bhi%20Nahin%20-%20Urdu%20Ghazal%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 86: Chapter 86",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Main%20Usay%20Waqif-e-Ulfat%20Na%20Karun%20%28SOCHTA%20HUN%29%20-%20N%20M%20RASHID.mp3"
+        },
+        {
+            "name": "Chapter 87: Chapter 87",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Bunda%20%28Poem%29%20%20-%20Urdu%20Nazm%20Shayari%20-%20Majeed%20Amjad%20Poetry%20-%20Modern%20Urdu%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 88: Chapter 88",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Qabil%20Ajmeri%20Ghazal%20-%20Hairaton%20Ke%20Silsile%20Soz-e-Nihan%20Tak%20Aa%20Gaye%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 89: Chapter 89",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ahmad%20Faraz%20Poetry%20-%20Dukh%20Fasana%20Nahi%20Ki%20Tujhse%20Kahen.mp3"
+        },
+        {
+            "name": "Chapter 90: Chapter 90",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Khatir%20Se%20Ya%20Lihaaz%20Se%20Main%20Maan%20To%20Gaya%20-%20Mirza%20Khan%20Daagh%20Dehlvi%20Poetry%20-%20Urdu%20Ghazal%20Recitation.mp3"
+        },
+        {
+            "name": "Chapter 91: Chapter 91",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Yaad%20Aate%20Hain%20Bahut%20Dil%20Ko%20Dukhane%20Wale%20-%20AKHTAR%20SAEED%20KHAN.mp3"
+        },
+        {
+            "name": "Chapter 92: Chapter 92",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Qabil%20Ajmeri%20Poetry%20-%20Tazad-e-Jazbaat%20Mein%20Ye%20Nazuk%20-%20Urdu%20Shayari%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 93: Chapter 93",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Modern%20Urdu%20Poetry%20-%20Majeed%20Amjad%20-%20Nazm%20-%20MUNICH%20%5BBarf%20Girti%20Hai%20Saz%20Bajte%20Hain%5D.mp3"
+        },
+        {
+            "name": "Chapter 94: Chapter 94",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Majrooh%20Sultanpuri%20Poetry%20-%20Karwan%20Banta%20Gaya%20%5BBest%20Ghazal%20Shayari%20in%20Urdu%5D.mp3"
+        },
+        {
+            "name": "Chapter 95: Chapter 95",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/ZULFIQAR%20AADIL%20-%20Shab%20Mein%20Din%20Ka%20Bojh%20Uthaya%20Din%20Mein%20Shab%20Bedari%20Ki%20-%20MODERN%20URDU%20POETRY.mp3"
+        },
+        {
+            "name": "Chapter 96: Chapter 96",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/MD%20Taseer%20Poetry%20-%20Sarmaya%20Dari%20-%20Urdu%20Nazm%20%5BTaraqqi%20Pasand%20Shayari%5D.mp3"
+        },
+        {
+            "name": "Chapter 97: Chapter 97",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Best%20Urdu%20Poetry%20-%20IBLEES%20KA%20AITRAAF-%20Talib%20Khundmiri.mp3"
+        },
+        {
+            "name": "Chapter 98: Chapter 98",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Hamesha%20Der%20Kar%20Deta%20Hun%20-%20Urdu%20Nazm%20-%20Munir%20Niazi%20Poetry%20-%20Urdu%20Readings.mp3"
+        },
+        {
+            "name": "Chapter 99: Chapter 99",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Habib%20Jalib%20Poetry%20-%20Urdu%20Ghazal%20-%20Jahan%20Bhi%20Gaye%20Dastan%20Chor%20Aaye%20-%20Poetry%20Recitation%20-%20Urdu%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 100: Chapter 100",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/ROMANTIC%20GHAZAL%20Khud%20Bakhud%20Mai%20Hai%20K%20Sheeshe%20Mein%20Bhari%20Aawe%20Hai%20%20%20JAN%20NISAR%20AKHTAR.mp3"
+        },
+        {
+            "name": "Chapter 101: Chapter 101",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Aaj%20Bazar%20Mein%20Pa%20Ba%20Jaulan%20Chalo%20-%20Faiz%20Ahmed%20Faiz%20Poetry%20-%20Inqilabi%20Nazm%20-%20Urdu%20Spoken%20Word%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 102: Chapter 102",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/MUHASRA%20by%20%20Ahmad%20Faraz%20-%20Inqalabi%20Nazm.mp3"
+        },
+        {
+            "name": "Chapter 103: Chapter 103",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Aate%20Aate%20Mera%20Naam%20Sa%20Reh%20Gaya%20-%20WASEEM%20BARELVI.mp3"
+        },
+        {
+            "name": "Chapter 104: Chapter 104",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/JALEEL%20MANIKPURI%20SHAYARI%20-%20Din%20Ki%20Aahen%20Na%20Gayin%20Raat%20Ke%20Naale%20Na%20Gaye%20-%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 105: Chapter 105",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Raja%20Mehdi%20Ali%20Khan-%20Kunj-e-Bagh%20Mein%20-%20Nazm%20Shayari%20-%20%20LEHJA%20%5BUrdu%20Poetry%20Channel%5D.mp3"
+        },
+        {
+            "name": "Chapter 106: Chapter 106",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Nasir%20Kazmi%20Poetry%20-%20Nasir%20Kya%20Kehta%20Phirta%20Hai%20Kuch%20Na%20Suno%20To%20Behtar%20Hai.mp3"
+        },
+        {
+            "name": "Chapter 107: Chapter 107",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Majaz%20Poetry%20-%20Awara%20%28Poem%29%20-%20Asrar%20ul%20Haq%20Majaz%20-%20Aye%20Gham%20e%20Dil%20Kya%20Karoon%20-%20Majaz%20Lakhnavi%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 108: Chapter 108",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Jigar%20Moradabadi%20Poetry%20-%20Hum%20Ko%20Mita%20Sake%20Ye%20Zamane%20Men%20Dum%20Nahin%20-%20Ghazal%20-%20Urdu%20Poetry%20Voice%20Over.mp3"
+        },
+        {
+            "name": "Chapter 109: Chapter 109",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/KHUBSURAT%20SHAYARI%20-%20Jis%20Shehar%20Mein%20Bhi%20Rehna%20Uktaye%20Hue%20Rehna%20-%20MUNIR%20NIAZI%20-%20Urdu%20Poetry%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 110: Chapter 110",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Meri%20Zindagi%20To%20Firaaq%20Hai%20-%20BEST%20GHAZAL%20POETRY%20-%20Pir%20Naseer%20Shayari%20%5BUrdu%20Spoken%20Word%5D.mp3"
+        },
+        {
+            "name": "Chapter 111: Chapter 111",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Ahmad%20Faraz%20Poetry%20-%20Bhalay%20Dinon%20Ki%20Baat%20Hai%20Bhali%20Si%20Aik%20Shakl%20Thi.mp3"
+        },
+        {
+            "name": "Chapter 112: Chapter 112",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/BEST%20LOVE%20POETRY%20Tah-e-Nujoom%20-%20FAIZ%20AHMED%20FAIZ%20-%20Urdu%20Poem%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 113: Chapter 113",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Raat%20Bhar%20Deeda%20E%20Namnak%20-%20INTEZAAR%20%5BPoem%5D%20Makhdoom%20Mohiuddin%20-%20LEHJA%20%5BUrdu%20Poetry%20Recitation%5D.mp3"
+        },
+        {
+            "name": "Chapter 114: Chapter 114",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/ROMANTIC%20CLASSICS%20-%20Allah%20Kare%20K%20Tum%20Kabhi%20Aisa%20Na%20Kar%20Sako%20%5BSufi%20Tabassum%5D.mp3"
+        },
+        {
+            "name": "Chapter 115: Chapter 115",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/PIRZADA%20QASIM%20SHAYARI%20-%20Khaak%20Hone%20Walon%20Ko%20Khaak%20Bhi%20Na%20Samjha%20Jaye%20-%20URDU%20POETRY%20READING.mp3"
+        },
+        {
+            "name": "Chapter 116: Chapter 116",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Tajziya%20-%20Urdu%20Poem%20%28Nazm%29%20-%20Jadeed%20Urdu%20Shayari%20-%20Jan%20Nisar%20Akhtar%20Poetry%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 117: Chapter 117",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/AHMAD%20FARAZ%20-%20Ghazal%20Recitation%20-%20Main%20To%20Maqtal%20Mein%20Bhi%20Qismat%20Ka%20Sikandar%20Nikla%20-%20URDU%20POETRY.mp3"
+        },
+        {
+            "name": "Chapter 118: Chapter 118",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Jo%20Chahe%20Aap%20Ka%20Husn-e-Kirishma%20Saz%20Kare%20-%20Urdu%20Ghazal%20-%20Hasrat%20Mohani%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 119: Chapter 119",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Zulf-e-Barham%20Sambhal%20Kar%20Chaliye%20%E2%80%93%20Urdu%20Ghazal%20-%20Abdul%20Hameed%20Adam%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 120: Chapter 120",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Is%20Mein%20Kuch%20Parda%20Nasheenon%20Ke%20Bhi%20Naam%20Aate%20Hain%20-%20Urdu%20Ghazal%20-%20MD%20Taseer%20-%20Urdu%20Poetry%20Reading.mp3"
+        },
+        {
+            "name": "Chapter 121: Chapter 121",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Noon%20Meem%20Rashid%20Poetry%20-%20SABA%20WIRAN%20%28Nazm%29%20-%20Jadeed%20Urdu%20Shayari%20-%20Urdu%20Poem%20Recitation.mp3"
+        },
+        {
+            "name": "Chapter 122: Chapter 122",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Wo%20Kaisi%20Auraten%20Theen%20-%20ASNA%20BADR.mp3"
+        },
+        {
+            "name": "Chapter 123: Chapter 123",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Kashmir%20Poetry%20in%20Urdu%20-%20Iftikhar%20Mughal%20-%20Nazm%20on%20Kashmir%20-%20Kashmir%20Tawajjuh%20Chahta%20Hai%20-%20Urdu%20Poem.mp3"
+        },
+        {
+            "name": "Chapter 124: Chapter 124",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/DUA%20Faiz%20Ahmed%20Faiz%20-%20URDU%20POETRY.mp3"
+        },
+        {
+            "name": "Chapter 125: Chapter 125",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Mustafa%20Zaidi%20Poetry%20-%20Gham-e-Dauran%20Ne%20Bhi%20Seekhe%20Gham-e-Janan%20Ke%20Chalan%20-%20GHAZAL%20SHAYARI.mp3"
+        },
+        {
+            "name": "Chapter 126: Chapter 126",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/SUNA%20HAI%20Log%20Usay%20Ankh%20Bhar%20K%20Dekhte%20Hain%20-%20AHMAD%20FARAZ%20-%20Best%20Romantic%20Urdu%20Poetry.mp3"
+        },
+        {
+            "name": "Chapter 127: Chapter 127",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha36/Motariz%20Firishton%20Ki%20Yad%20Dehani%20-%20Urdu%20Poem%20Recitation%20-%20Josh%20Malihabadi%20Poetry.mp3"
+        }
+    ]
+}

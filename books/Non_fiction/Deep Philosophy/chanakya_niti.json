@@ -1,0 +1,29 @@
+{
+    "bookId": "book_111",
+    "title": "Chanakya Neeti",
+    "author": "Chanakya",
+    "moods": [
+        "Non-Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81w1QfeJu8L._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha40/Chanakya%20Neeti_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha40/Chanakya%20Neeti_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha40/Chanakya%20Neeti_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha40/Chanakya%20Neeti_Part_04.mp3"
+        }
+    ]
+}
