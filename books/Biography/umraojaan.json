@@ -1,0 +1,36 @@
+{
+    "bookId": "book_100",
+    "title": "Umrao Jaan Ada",
+    "author": "Mirza Hadi 'ruswa",
+    "moods": [
+        "Biography"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71fAla6bjqL._SL1360_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha28/Umrao_Jaan_Ada_audio_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha28/Umrao_Jaan_Ada_audio_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha28/Umrao_Jaan_Ada_audio_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha28/Umrao_Jaan_Ada_audio_Part_04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha28/Umrao_Jaan_Ada_audio_Part_05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha28/Umrao_Jaan_Ada_audio_Part_06.mp3"
+        }
+    ]
+}

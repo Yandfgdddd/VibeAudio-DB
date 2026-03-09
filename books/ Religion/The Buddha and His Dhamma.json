@@ -1,0 +1,73 @@
+{
+    "bookId": "book_104",
+    "title": "The Buddha and His Dhamma",
+    "author": "Dr BR Ambedkar",
+    "moods": [
+        "Fiction",
+        "Religion"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81YDN3u8XgL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/1.The%20Buddha%20and%20his%20Dhamma%20%20Audio%20Book%20%20Story%20of%20Gautama%20Buddha%20-%20Books%20Talking.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/2.The%20Buddha%20and%20his%20Dhamma%20%20Part%20-%202%20%20Story%20of%20Buddha%20-%20Books%20Talking.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/3.The%20Buddha%20and%20his%20Dhamma%20%20Part%20-%203%20%20Story%20of%20Buddha%20by%20Dr.%20B.R.%20Ambedkar%20%20Audio%20Book%20-%20Books%20Talking.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/4.The%20Buddha%20and%20his%20Dhamma%20Part%204%20%20Story%20of%20Buddha%20by%20Dr.%20B.R.%20Ambedkar%20%20Audio%20Book%20-%20Books%20Talking.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/5.The%20Buddha%20and%20his%20Dhamma%20%20Part%20-%205%20%20Story%20of%20Buddha%20by%20Dr.%20B.R.%20Ambedkar%20%20Audio%20Book%20-%20Books%20Talking.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/6.The%20Buddha%20and%20his%20Dhamma%20Story%20of%20Buddha.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/7.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/8.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/9.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/10.The%20Buddha%20and%20his%20Dhamma%20%20Audio%20Book%20in%20English%20%20Buddhist%20Story.m4a"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/11.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/12.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/13.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 14: Chapter Fourteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/14.The%20Buddha%20and%20his%20Dhamma.m4a"
+        },
+        {
+            "name": "Chapter 15: Chapter Fifteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha32/15.The%20Buddha%20and%20his%20Dhamma.m4a"
+        }
+    ]
+}

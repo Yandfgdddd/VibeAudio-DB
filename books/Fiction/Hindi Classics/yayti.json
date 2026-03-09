@@ -1,0 +1,65 @@
+{
+    "bookId": "book_101",
+    "title": "Yayati",
+    "author": "Vishnu S Khandekar",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71NgilLWGbL._SL1360_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_06.mp3"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_07.mp3"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_08.mp3"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_09.mp3"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_10.mp3"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_11.mp3"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_12.mp3"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha29/Yayati%20by%20vishnu%20sakharam%20khandekar%20-%20Audible%20original%20-%20by%20Hariom%20Gupta_Part_13.mp3"
+        }
+    ]
+}

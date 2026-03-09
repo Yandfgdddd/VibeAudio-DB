@@ -1,0 +1,45 @@
+{
+    "bookId": "book_99",
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "moods": [
+        "Non-Fiction",
+        "Self-Help"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81GlTN6QQrL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_06.mp3"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_07.mp3"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_2/main/cha27/Think%20Like%20a%20Monk%20by%20Jay%20Shetty%20by%20Hariom%20Gupta_Part_08.mp3"
+        }
+    ]
+}
